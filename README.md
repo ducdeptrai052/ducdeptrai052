@@ -14,6 +14,10 @@ React | Next.js | Node.js | TypeScript | MySQL | n8n | Git
 - 🎓 **Online Course Platform** – Built with Next.js + Prisma ORM  
 - 🎬 **Cinema Booking System** – SQL Server backend + React frontend  
 ---
+### 📊 GitHub Stats
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducdeptrai052&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+---
 
 ### 📫 Connect with Me
 🌐 [Portfolio](#) 💼 [LinkedIn](https://www.linkedin.com/in/duc-ho-073aa8153/) 📧 [Email](hominhduc.dev@gmail.com)
