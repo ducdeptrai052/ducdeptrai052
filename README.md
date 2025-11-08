@@ -34,8 +34,6 @@
 
 - 🎓 **Online Course Platform** — Full-stack web app using Next.js + Prisma ORM  
 - 🎬 **Cinema Booking System** — SQL Server backend + React frontend  
-- 🤖 **IoT Smart Car** — Arduino line-following robot with ultrasonic sensors  
-- 🌼 **Flower Shop Automation** — n8n workflow for managing online orders  
 
 🧩 *More projects available in my pinned repositories!*
 
