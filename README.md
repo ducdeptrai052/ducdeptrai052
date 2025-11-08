@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Duc (David)
 
-<!--
-**ducdeptrai052/ducdeptrai052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer who loves building practical and creative tech solutions.  
+Always learning & exploring new tech 🌱  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+React | Next.js | Node.js | TypeScript | MySQL | n8n | Git  
+
+---
+
+### 🚀 Featured Projects
+- 🎓 **Online Course Platform** – Built with Next.js + Prisma ORM  
+- 🎬 **Cinema Booking System** – SQL Server backend + React frontend  
+---
+
+### 📫 Connect with Me
+🌐 [Portfolio](#) 💼 [LinkedIn](https://www.linkedin.com/in/duc-ho-073aa8153/) 📧 [Email](hominhduc.dev@gmail.com)
