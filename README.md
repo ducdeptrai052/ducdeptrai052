@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Duc (David)</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Web Developer & IoT Enthusiast 🌱</h3>
+<h3 align="center">🚀 Passionate Software Engineer | Web Developer 🌱</h3>
 
 <p align="center">
   <a href="hominhduc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white" /></a>
