@@ -11,7 +11,7 @@
 
 ### 🧠 About Me  
 💻 I’m a **software engineer** who loves building practical and creative tech solutions.  
-🌱 Currently learning **Nest.js, Reactjs, TypeScript, RestAPI and AI Automation **.  
+🌱 Currently learning **Nest.js, Reactjs, TypeScript, RestAPI and AI Automation**.  
 ⚙️ Always exploring new tools and frameworks that make development smarter and faster.  
 🚀 Passionate about combining **software + hardware** to create real-world impact.  
 
