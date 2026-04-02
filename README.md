@@ -82,6 +82,7 @@ Skilled in deploying and maintaining production systems using Docker and VPS
 * Designed RESTful APIs with JWT authentication
 * Structured relational database and optimized queries
 * Deployed with Docker on VPS
+* 👉 [View Repository](https://github.com/hominhduc-dev/jenny_personal_blog)
 
 ---
 
@@ -91,6 +92,7 @@ Skilled in deploying and maintaining production systems using Docker and VPS
 * Used Python (Selenium, Playwright, BeautifulSoup)
 * Handled dynamic content and anti-bot techniques
 * Automated workflows with cron jobs
+* 👉 [View Repository](https://github.com/hominhduc-dev/n8n-nodes-tiktok-scraper)
   
 ---
 
