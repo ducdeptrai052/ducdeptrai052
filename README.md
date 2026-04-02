@@ -82,7 +82,7 @@ Skilled in deploying and maintaining production systems using Docker and VPS
 * Designed RESTful APIs with JWT authentication
 * Structured relational database and optimized queries
 * Deployed with Docker on VPS
-* 👉 [View Repository](https://github.com/hominhduc-dev/jenny_personal_blog)
+* 👉 [View Repository](https://github.com/hominhduc-dev/portfolio-cms_martech)
 
 ---
 
