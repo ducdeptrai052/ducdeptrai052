@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:hominhduc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/duc-ho-073aa8153/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/hominhducdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=ducdeptrai052&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
